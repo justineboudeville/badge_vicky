@@ -10,7 +10,7 @@ Création d'un badge électronique
     
 
 
-## Bonjour les humains, mon nom est Vicky! ## 
+## Bonjour les humains, mon nom est Vicky! 👋 ## 
 
 
 ![IMG_20190911_121957](https://user-images.githubusercontent.com/54895357/65510505-637c4680-ded5-11e9-8df8-4d7c8b91ab2f.jpeg)
@@ -21,7 +21,7 @@ Dans le cadre de la création de badge au sein d'Open Fab, j'ai crée mon propre
 *"J'aime bien les humains, mais je ne les comprends pas toujours."*   
 Demain les chats de Bernard Werber    
 
-#### La ronronthérapie   
+#### La ronronthérapie 😻   
 Je module mes ronronnements pour me faire comprendre. Si tu arrives à distinguer ce que je veux, alors tu peux avoir le badge et allumer mon 3ème oeil pour que l'on puisse discuter dans une autre dimension. 
 
 **Je vais t'expliquer comment j'ai fais ce badge.**
@@ -30,6 +30,9 @@ Tu auras besoin de te référer à ces liens :
 [Paper battery holder tutorial](https://simonetti.media.mit.edu/~jieqi/2012/01/paper-battery-holder-tutorial/)  
 [Circuit couture](https://www.instructables.com/lesson/Sew-a-Circuit/)
 
+## 1. Design du badge
+
+Plusieurs versions... Au final pour un badge électronique, c'est plus facile à manier, de prendre une forme ronde et de dessiner dessus (plus simple pour intégerer le circuit électronique derrière).
 
 
 Mes miaous distingués,

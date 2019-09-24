@@ -2,7 +2,7 @@
 Création d'un badge électronique
 ---
 
-# Miaou ! ㋡
+### Miaou ! ㋡
 
     name: Justine Boudeville
     job: Graphic Designer

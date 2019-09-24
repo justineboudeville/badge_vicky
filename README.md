@@ -40,6 +40,8 @@ Design final :
 [paysage kinétique](https://github.com/DewiBrunet/Plissage/blob/master/Paysage%20kin%C3%A9tique.md)
 > Les réglages de la laser pour ce tissu.
 
+![71692631_423585764932237_6034924350803542016_n](https://user-images.githubusercontent.com/54895357/65511977-a986d980-ded8-11e9-8f5c-9adcad74312b.jpg)
+
 
 ## 3. Circuit électronique
 
@@ -48,6 +50,15 @@ Design final :
 Construire le support pile on/off
 Coudre avec du fil conducteur au dos du badge le circuit. 
 
+Tester avec la board le circuit.
+![70701615_1172834766241650_5619579362350202880_n](https://user-images.githubusercontent.com/54895357/65511945-970ca000-ded8-11e9-8c04-79656d4748c8.jpg)
+
+Coudre sur un tissu support
+![70728255_693452817839985_3942208227386589184_n](https://user-images.githubusercontent.com/54895357/65511950-9bd15400-ded8-11e9-9b3a-8454d873eae4.jpg)
+![71598887_949946332012761_1620286020257841152_n](https://user-images.githubusercontent.com/54895357/65511965-a5f35280-ded8-11e9-9a61-71f304b507c0.jpg)
+
+
+## 4. ON/OFF
 
 
 

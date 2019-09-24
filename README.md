@@ -49,12 +49,16 @@ Design final :
 [Circuit couture](https://www.instructables.com/lesson/Sew-a-Circuit/)
 Construire le support pile on/off
 Coudre avec du fil conducteur au dos du badge le circuit. 
+Coudre sur un tissu support
 
 Tester avec la board le circuit.
-![70701615_1172834766241650_5619579362350202880_n](https://user-images.githubusercontent.com/54895357/65511945-970ca000-ded8-11e9-8c04-79656d4748c8.jpg)
+![70701615_1172834766241650_5619579362350202880_n](https://user-images.githubusercontent.com/54895357/65511945-970ca000-ded8-11e9-8c04-79656d4748c8.jpg)  
 
-Coudre sur un tissu support
+
+
 ![70728255_693452817839985_3942208227386589184_n](https://user-images.githubusercontent.com/54895357/65511950-9bd15400-ded8-11e9-9b3a-8454d873eae4.jpg)
+
+
 ![71598887_949946332012761_1620286020257841152_n](https://user-images.githubusercontent.com/54895357/65511965-a5f35280-ded8-11e9-9a61-71f304b507c0.jpg)
 
 

@@ -60,8 +60,13 @@ Coudre sur un tissu support
 
 ## 4. ON/OFF
 
+![Capture d’écran 2019-09-24 à 14 39 19](https://user-images.githubusercontent.com/54895357/65512402-69742680-ded9-11e9-8bad-69c939b2e65e.jpeg)
 
+
+Voilà tu sais faire un badge électronique ! 
+
+Notes : Mettre la pile à l'arrière pour avoir le bouton on/off et non les fils conducteurs
 
 
 Mes miaous distingués,
-Vicky.
+Vicky 💖 

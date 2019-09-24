@@ -10,7 +10,11 @@ Création d'un badge électronique
     
 
 
-**Bonjour les humains, mon nom est Vicky!**  
+**Bonjour les humains, mon nom est Vicky!**   
+
+
+![IMG_20190911_121957](https://user-images.githubusercontent.com/54895357/65510505-637c4680-ded5-11e9-8df8-4d7c8b91ab2f.jpeg)
+
 
 Dans le cadre de la création de badge au sein d'Open Fab, j'ai crée mon propre badge. Celui ci peut-être obtenu lorsque vous arrivez à communiquer avec moi. Je possède un troisième oeil, qui me permet de communiquer avec vous. 
 

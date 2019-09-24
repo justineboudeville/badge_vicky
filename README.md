@@ -34,6 +34,10 @@ Tu auras besoin de te référer à ces liens :
 
 Plusieurs versions... Au final pour un badge électronique, c'est plus facile à manier, de prendre une forme ronde et de dessiner dessus (plus simple pour intégerer le circuit électronique derrière).
 
+![Capture d’écran 2019-09-24 à 14 27 42](https://user-images.githubusercontent.com/54895357/65511602-df778e00-ded7-11e9-8486-1c72517ca029.png)  
+Design final :  
+![Capture d’écran 2019-09-24 à 14 28 30](https://user-images.githubusercontent.com/54895357/65511610-e1415180-ded7-11e9-95ea-7bb0a6291d97.png)
+
 
 Mes miaous distingués,
 Vicky.

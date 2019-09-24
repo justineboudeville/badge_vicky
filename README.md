@@ -10,7 +10,7 @@ Création d'un badge électronique
     
 
 
-**Bonjour les humains, mon nom est Vicky!**   
+## Bonjour les humains, mon nom est Vicky! ## 
 
 
 ![IMG_20190911_121957](https://user-images.githubusercontent.com/54895357/65510505-637c4680-ded5-11e9-8df8-4d7c8b91ab2f.jpeg)

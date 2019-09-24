@@ -26,10 +26,6 @@ Je module mes ronronnements pour me faire comprendre. Si tu arrives à distingue
 
 **Je vais t'expliquer comment j'ai fais ce badge.**
 
-Tu auras besoin de te référer à ces liens :  
-[Paper battery holder tutorial](https://simonetti.media.mit.edu/~jieqi/2012/01/paper-battery-holder-tutorial/)  
-[Circuit couture](https://www.instructables.com/lesson/Sew-a-Circuit/)
-
 ## 1. Design du badge
 
 Plusieurs versions... Au final pour un badge électronique, c'est plus facile à manier, de prendre une forme ronde et de dessiner dessus (plus simple pour intégerer le circuit électronique derrière).
@@ -37,6 +33,23 @@ Plusieurs versions... Au final pour un badge électronique, c'est plus facile à
 ![Capture d’écran 2019-09-24 à 14 27 42](https://user-images.githubusercontent.com/54895357/65511602-df778e00-ded7-11e9-8486-1c72517ca029.png)  
 Design final :  
 ![Capture d’écran 2019-09-24 à 14 28 30](https://user-images.githubusercontent.com/54895357/65511610-e1415180-ded7-11e9-95ea-7bb0a6291d97.png)
+
+
+## 2. Dessin
+
+[paysage kinétique](https://github.com/DewiBrunet/Plissage/blob/master/Paysage%20kin%C3%A9tique.md)
+> Les réglages de la laser pour ce tissu.
+
+
+## 3. Circuit électronique
+
+[Paper battery holder tutorial](https://simonetti.media.mit.edu/~jieqi/2012/01/paper-battery-holder-tutorial/)  
+[Circuit couture](https://www.instructables.com/lesson/Sew-a-Circuit/)
+Construire le support pile on/off
+Coudre avec du fil conducteur au dos du badge le circuit. 
+
+
+
 
 
 Mes miaous distingués,
